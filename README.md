@@ -7,8 +7,7 @@
 2.  [Technologies Used](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#technologies-used)
 3.  [Prerequisite](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#prerequisite)
 4.  [Demo](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#demo)
-5.  [Contributing](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#contributing)
-6.  [License](https://github.com/iampiyushjain/Text-Editor/blob/main/README.md#license)
+
 
 ## About
 
@@ -41,11 +40,3 @@ This was developed for exploring the Python GUI and to enhance my DSA skills.
  - The best feature of the application is Unlimited Undo/Redo operations. 
 
 ![enter image description here](https://github.com/iampiyushjain/Text-Editor/blob/main/screenshots/operation.gif)
-
-## Contributing
-
-Please see  [CONTRIBUTING.md](https://github.com/iampiyushjain/Text-Editor/blob/master/CONTRIBUTING.md)  for more details. Or feel free to reach out to me via  [mail](mailto:piyushjain7024@gmail.com)
-
-## [](https://github.com/iampiyushjain/Text-Editor/blob/master/README.md#license)License
-
-Text Editor is licensed under MIT license. Please see  [LICENSE.md](https://github.com/iampiyushjain/Text-Editor/blob/master/LICENSE.md)  for more details.
